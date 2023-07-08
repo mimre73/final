@@ -1,0 +1,2 @@
+export const VERIFICATION_CODE = '@AUTH/OTP';
+export const VERIFICATION_PHONE = '@AUTH/PHONE';

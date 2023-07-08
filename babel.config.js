@@ -1,0 +1,40 @@
+module.exports = {
+  presets: ['module:metro-react-native-babel-preset'],
+  plugins: ['react-native-reanimated/plugin'],
+  // plugins: [
+  //   [
+  //     'module-resolver',
+  //     {
+  //       extensions: [
+  //         '.ios.js',
+  //         '.android.js',
+  //         '.ios.jsx',
+  //         '.android.jsx',
+  //         '.js',
+  //         '.jsx',
+  //         '.json',
+  //         '.ts',
+  //         '.tsx',
+  //       ],
+  //       root: ['.'],
+  //       alias: {
+  //         '@api': ['./src/api'],
+  //         '@assets': ['./src/Assets'],
+  //         '@components': ['./src/Components'],
+  //         '@navigation': ['./src/Navigation'],
+  //         '@screens': ['./src/Screens'],
+  //         '@store': ['./src/Store'],
+  //         '@theme': ['./src/Theme'],
+  //         '@dataTypes': ['./src/DataTypes'],
+  //         '@localization': ['./src/localization'],
+  //         '@utils': ['./src/Utils'],
+  //         '@view-controllers': ['./src/ViewControllers'],
+  //         '@view-models': ['./src/ViewModels'],
+  //         '@constants': ['./src/Constants'],
+  //       },
+  //     },
+  //     'react-native-reanimated/plugin',
+  //   ],
+  //   ['react-native-reanimated/plugin'],
+  // ],
+};

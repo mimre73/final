@@ -1,0 +1,41 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/Theme/Fonts/Urbanist-Black.ttf",
+      "sha1": "ac6cd4da591f8ccf2c4e5f1e6a2d4defe5efc194"
+    },
+    {
+      "path": "src/Theme/Fonts/Urbanist-Bold.ttf",
+      "sha1": "be9c8ec7e958a7cc9ba701069f67e8c24dbffcaa"
+    },
+    {
+      "path": "src/Theme/Fonts/Urbanist-ExtraBold.ttf",
+      "sha1": "9c7f62a17d6a6dfc1af36551929df4d448949bd9"
+    },
+    {
+      "path": "src/Theme/Fonts/Urbanist-ExtraLight.ttf",
+      "sha1": "04600d6a7394249caf999d0ba5a0c4e21f90bd7f"
+    },
+    {
+      "path": "src/Theme/Fonts/Urbanist-Light.ttf",
+      "sha1": "9c3488a2fb24ac803202d565d548f533f87a1ef7"
+    },
+    {
+      "path": "src/Theme/Fonts/Urbanist-Medium.ttf",
+      "sha1": "bb0f2a1b817f1739befdc88bb359cfe30ba5d49c"
+    },
+    {
+      "path": "src/Theme/Fonts/Urbanist-Regular.ttf",
+      "sha1": "aa98b713bd8aee516850ebfd8c30e1d48104a345"
+    },
+    {
+      "path": "src/Theme/Fonts/Urbanist-SemiBold.ttf",
+      "sha1": "933eaafe76819ad0c8a1aa7baba8abd4a4f48eaa"
+    },
+    {
+      "path": "src/Theme/Fonts/Urbanist-Thin.ttf",
+      "sha1": "abdec1d8e081652c819cb115755307827a12f0dd"
+    }
+  ]
+}

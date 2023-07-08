@@ -1,0 +1,220 @@
+{
+  "welcome": {
+    "getStarted": "Get Started",
+    "welcomeTo": "Welcome to",
+    "fidaRide": "Fida Ride",
+    "description": "By signing to this application you are agreeing to terms and conditions considering our privacy policy.",
+    "version": "v {{val}} - Design by Soli"
+  },
+  "login": {
+    "title": "Login to your Account"
+  },
+  "signup": {
+    "title": "Create your Account"
+  },
+  "verifyPhone": {
+    "title": "Verify your phone number"
+  },
+  "password": {
+    "title": "Create Password"
+  },
+  "fingerprint": {
+    "title": "Set Your Fingerprint (Optional)",
+    "add": "Add a fingerprint to make your account more secure.",
+    "placefinger": "Please put your finger on the fingerprint scanner to get started."
+  },
+  "accountSetup": {
+    "title": "Fill Your Profile",
+    "reverify": "Reverify Phone number"
+  },
+  "common": {
+    "continue": "Continue",
+    "skip": "Skip",
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "birth": "Date of Birth",
+    "email": "Email",
+    "phone": "phone",
+    "save": "Save",
+    "cancel": "Cancel",
+    "update": "Update",
+    "submit": "Submit",
+    "ok": "OK"
+  },
+  "modals": {
+    "accountReady": {
+      "desc": "Your account is ready to use. You will be redirected to the Home page in a few seconds..",
+      "title": "Congratulations!"
+    },
+    "changePassword": {
+      "title": "Congratulations",
+      "desc": "Your new Password has been set..You will be redirected to the Lohin page in a few seconds.."
+    },
+    "cancelTaxi": {
+      "title": "We’re so sad about your cancellation",
+      "desc": "We will continue to improve our service & satisfy you on the next trip."
+    }
+  },
+  "inbox": {
+    "title": "Inbox"
+  },
+  "notifications": {
+    "title": "Notification"
+  },
+  "offers": {
+    "title": "Special Offers"
+  },
+  "bookings": {
+    "title": "Bookings",
+    "emptyActive": "You have no active taxi booking",
+    "emptyActiveDesc": "You don't have an active taxi booking at this time"
+  },
+  "security": {
+    "title": "Security",
+    "remember": "Remember me",
+    "faceid": "Face ID",
+    "biometric": "Biometric ID",
+    "google": "Google Authenticator",
+    "password": "Change Password"
+  },
+  "notificationSettings": {
+    "title": "Notification Settings",
+    "general": "General Notification",
+    "sound": "Sound",
+    "vibrate": "Vibrate",
+    "special": "Special Offers",
+    "promo": "Promo & Discount",
+    "payments": "Payments",
+    "cashback": "Cashback",
+    "updates": "App Updates",
+    "service": "New Service Available",
+    "tips": "New Tips Available"
+  },
+  "payment": {
+    "title": "Payment Methods"
+  },
+  "addCard": {
+    "title": "Add New Card"
+  },
+  "languages": {
+    "title": "Language"
+  },
+  "privacy": {
+    "title": "Privacy Policy"
+  },
+  "addresses": {
+    "title": "Address",
+    "add": "Add New Address"
+  },
+  "addressDetails": {
+    "addTitle": "Add New Address",
+    "details": "Address Details",
+    "name": "Name Address",
+    "save": "Save Address"
+  },
+  "help": {
+    "title": "Help Center"
+  },
+  "editProfile": {
+    "title": "Edit Profile"
+  },
+  "invite": {
+    "title": "Invite Friends"
+  },
+  "transactions": {
+    "title": "Transaction history"
+  },
+  "transactionDetails": {
+    "title": "E-Receipt"
+  },
+  "forgotPassword": {
+    "title": "Forgot Password",
+    "desc": "Select which contact details should we use to reset your password",
+    "sms": "via SMS",
+    "email": "via Email",
+    "call": "via Call"
+  },
+  "vehicleType": {
+    "title": "Select Vehicle Type",
+    "desc": "Select the vehicle category you want to ride.",
+    "hint": "*Starting from",
+    "more": "More Options...",
+    "passenger": "Number of Passengers",
+    "waiting": "Additional Waiting minutes",
+    "baby": "With baby car sit",
+    "wheelchair": "Wheelchair accessible"
+  },
+  "availableRides": {
+    "title": "Available Rides",
+    "sort": "Sort By:",
+    "price": "Price",
+    "time": "Pickup Time",
+    "placeOrder": "Place Order",
+    "promo": "Promo Code",
+    "promoPlaceholder": "Enter Promo Code"
+  },
+  "addPromo": {
+    "title": "Add Promo",
+    "apply": "Apply Promo"
+  },
+  "paymentSelect": {
+    "title": "Configured Payment Methods",
+    "desc": "Select the payment method you want to use."
+  },
+  "driverSearch": {
+    "title": "Searching for Driver",
+    "searching": "Searching Ride...",
+    "desc": "This may take a few seconds...",
+    "cancel": "Slide to Cancel"
+  },
+  "driverArriving": {
+    "title": "Driver is Arriving...",
+    "minutes": "min"
+  },
+  "driverDetails": {
+    "title": "Driver Details",
+    "since": "Member Since",
+    "model": "Car Model",
+    "plate": "Plate Number",
+    "rating": "Rating",
+    "trips": "Trips",
+    "years": "Years"
+  },
+  "calling": {
+    "minutes": "Minutes"
+  },
+  "cancelTaxi": {
+    "title": "Cancel Taxi",
+    "desc": "Please select the reason for cancellation:",
+    "reason1": "Waiting for long time",
+    "reason2": "Unable to contact driver",
+    "reason3": "Driver denied to go to destination",
+    "reason4": "Driver denied to come to pickup",
+    "reason5": "Wrong address shown",
+    "reason6": "The price is not reasonable",
+    "reason7": "The price is not reasonable",
+    "others": "Others",
+    "placeholder": "Others Reason"
+  },
+  "trip": {
+    "title": "Trip to Destination",
+    "km": "KM"
+  },
+  "mood": {
+    "title": "Your Mood",
+    "whats": "What's Your Mood!",
+    "about": "about this trip?"
+  },
+  "rate": {
+    "title": "Rate Driver",
+    "whats": "How is your Driver?",
+    "about": "Please rate your driver..."
+  },
+  "tip": {
+    "title": "Tip for Driver",
+    "whats": "Wow 5 Star!",
+    "about": "Do you want to add additional tip for Daniel?",
+    "no": "No, Thanks!",
+    "pay": "Pay Tip"
+  }
+}
