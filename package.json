@@ -74,7 +74,8 @@
     "typescript": "4.8.4"
   },
   "resolutions": {
-    "react-native-svg": "^13.9.0"
+    "react-native-svg": "^13.9.0",
+    "react-native-iconly": "^1.0.12"
   },
   "jest": {
     "preset": "react-native"
